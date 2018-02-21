@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "5BA59BZ4RU.com.quest.vWorkspace",
-				"paths": [ "/ios_connector/*"]
+				"appID": "",
+				"paths": [ ""]
 			}
 		]
 	}
